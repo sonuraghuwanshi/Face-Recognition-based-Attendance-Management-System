@@ -1,4 +1,4 @@
-# Face Recognition Attendance Management System
+# Face Recognition based Attendance Management System
 
 Problem:  Suppose there are 60 students in the class and it took 8-10 second for the attendance of each so total 600 sec(10 min) in a lecture.
           So, generally in a day there is minimum 6 lectures. So, total 60min (1 hour) of a day goes in attendance.
